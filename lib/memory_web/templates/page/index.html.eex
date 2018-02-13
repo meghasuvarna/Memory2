@@ -1,8 +1,20 @@
-<h1>Memory Game</h1>
+<!DOCTYPE html>
+<html>
+<h1 style="color: #5e9ca0;">Memory Game</h1>
+<h2 style="color: #2e6c80;">Join a game</h1>
+<p>Enter your name</p>
+<p><input type="text" id="game-input"></p>
 
-<div id="game">
-  Loading...
-</div>
+<p>Click the 
+<a id="hrefId" href="">
+  <button id="game-button" style="background-color:#2b2301;color:#fff;display:inline-block;padding:3px 10px;
+font-weight:bold; border-radius:5px;">Start Game
+  </button>
+</a>button to start the game
+</p>
+
+
+</html>
 
 
 
